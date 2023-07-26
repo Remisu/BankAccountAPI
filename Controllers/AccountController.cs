@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using BankAccountAPI.Models;
 
-namespace NomeDoProjeto.Controllers
+namespace API_BankAccount.Application.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
